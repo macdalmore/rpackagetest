@@ -13,4 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/macdalmore/rpackagetest
 BugReports: https://github.com/macdalmore/rpackagetest/issues
-
+RoxygenNote: 5.0.1
