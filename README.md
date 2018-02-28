@@ -13,7 +13,7 @@ a sample R package _DESCRIPTION_ file check here for example:
 https://github.com/tidyverse/ggplot2/blob/master/DESCRIPTION
 
 
-**Author(s) and Maintainer(s)**
+### Author(s) and Maintainer(s)
 The generated R package DESCRIPTION file lists both an `Author` and
 `Maintainer`. It is however recommended to use the `Authors@R` field. For
 example:
@@ -23,7 +23,7 @@ Authors@R: person("Mac", "D", email = "yourself@somewhere.net", role =
 c("aut", "cre") 
 ```
 
-**LICENSE**
+### LICENSE
 I left this open. If it is specified a _LICENSE_ file needs to be added. It is
 easiest to use GitHub for this and select an appropriate license. If chosen,
 GitHub will add the license file to the repo.
