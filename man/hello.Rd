@@ -12,4 +12,7 @@ Say hello.
 \examples{
 hello()
 }
+\seealso{
+Other greetings: \code{\link{hello_user}}
+}
 
