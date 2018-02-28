@@ -1,4 +1,5 @@
-# README This repository is a sample R package which has been set up to explore
+# README 
+This repository is a sample R package which has been set up to explore
 the different steps in creating and maintaining an R package.
 
 It follows the R package book (http://r-pkgs.had.co.nz) closely. I have created
@@ -7,7 +8,6 @@ using rather atomic commits to highlight the most important steps or
 configuration options.
 
 # Notes on package structure
-
 ## _DESCRIPTION_ ([Book chapter](http://r-pkgs.had.co.nz/description.html)) For
 a sample R package _DESCRIPTION_ file check here for example:
 https://github.com/tidyverse/ggplot2/blob/master/DESCRIPTION
@@ -37,5 +37,6 @@ included in this example. The R package book also provides information on docume
 
 
 
-# Useful resources - Hadley Wickham's R package book: http://r-pkgs.had.co.nz -
-...
+# Useful resources 
+- Hadley Wickham's R package book: http://r-pkgs.had.co.nz 
+- ...
