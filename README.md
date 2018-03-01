@@ -34,6 +34,16 @@ The most relevant documentation options for functions and packages have been
 included in this example. The R package book also provides information on documenting Classes, Generics and Methods. This has **not** been covered in the committed code.
 
 
+# Travis CI
+Notes regarding CI with Travis go here. I am starting with the most basic setup using the YAML file generated with `devtools::use_travis()`:
+
+```
+language: R
+sudo: false
+cache: packages
+```
+
+
 
 # Useful resources 
 - Hadley Wickham's R package book: http://r-pkgs.had.co.nz 
