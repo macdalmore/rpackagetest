@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/macdalmore/rpackagetest.svg?branch=master)](https://travis-ci.org/macdalmore/rpackagetest) [![codecov](https://codecov.io/gh/macdalmore/rpackagetest/branch/master/graph/badge.svg)](https://codecov.io/gh/macdalmore/rpackagetest)
+
+
+
 # README 
 This repository is a sample R package which has been set up to explore
 the different steps in creating and maintaining an R package.
@@ -32,6 +36,16 @@ GitHub will add the license file to the repo.
 # Object documentation 
 The most relevant documentation options for functions and packages have been 
 included in this example. The R package book also provides information on documenting Classes, Generics and Methods. This has **not** been covered in the committed code.
+
+
+# Travis CI
+Notes regarding CI with Travis go here. I am starting with the most basic setup using the YAML file generated with `devtools::use_travis()`:
+
+```
+language: R
+sudo: false
+cache: packages
+```
 
 
 
