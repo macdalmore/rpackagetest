@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/macdalmore/rpackagetest.svg?branch=master)](https://travis-ci.org/macdalmore/rpackagetest) [![codecov](https://codecov.io/gh/macdalmore/rpackagetest/branch/master/graph/badge.svg)](https://codecov.io/gh/macdalmore/rpackagetest)
-
-
+[![Build Status](https://travis-ci.org/macdalmore/rpackagetest.svg?branch=master)](https://travis-ci.org/macdalmore/rpackagetest)
 
 # README 
 This repository is a sample R package which has been set up to explore
