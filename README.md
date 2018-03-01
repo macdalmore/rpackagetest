@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/macdalmore/rpackagetest.svg?branch=master)](https://travis-ci.org/macdalmore/rpackagetest)
+
 # README 
 This repository is a sample R package which has been set up to explore
 the different steps in creating and maintaining an R package.
