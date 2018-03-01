@@ -18,6 +18,7 @@
 #' @family greetings
 #' @examples
 #' hello()
+#' @export
 hello <- function() {
   print("Hello, world!")
 }
@@ -50,6 +51,7 @@ hello <- function() {
 #' @family greetings
 #' @seealso \code{\link{hello}} which is in the same \code{@@family} of
 #'   functions, and of course check \url{http://r-pkgs.had.co.nz}.
+#' @export
 hello_user <- function(name) {
   if (!is.null(name) && !is.na(name) && nchar(name) > 0) {
     print(paste("Hello, ", name, "!", sep = ""))
